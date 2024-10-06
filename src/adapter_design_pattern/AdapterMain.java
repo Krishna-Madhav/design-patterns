@@ -9,7 +9,7 @@ package adapter_design_pattern;
  * Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
  */
 
-public class School {
+public class AdapterMain {
 
     public static void main(String[] args) {
 
