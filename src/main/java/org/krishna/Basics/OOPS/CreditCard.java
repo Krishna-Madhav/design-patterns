@@ -8,6 +8,6 @@ public class CreditCard extends Card{
 
     @Override
     public void pay() {
-        System.out.println("Making payment via " + this.getCardName() + "'s Credit card " );
+        System.out.println("Making payment via " + cardName + "'s Credit card "  );
     }
 }
